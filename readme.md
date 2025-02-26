@@ -1,13 +1,13 @@
 
-** # How can you create bar plot ? 
+** # How can you create bar plot ? **
 
 Firstly we must import ggplot2 library.
 
-** library(ggplot2)
+** library(ggplot2)**
 
 After than we gonna install mtcars dataset.
 
-**data(mtcars)
+**data(mtcars)**
 
 Finally. We installed mtcars dataset. 
 
